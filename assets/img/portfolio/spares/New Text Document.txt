@@ -1,0 +1,15 @@
+<!--
+      <div id="app" class="container-card" >
+        <card data-image="assets/research/f1-score.jpg">
+          <h1 slot="header">F1 Score of Clustering Algorithms</h1>
+          <p slot="content">on IRIS dataset</p>
+          <p slot="content"><a href="https://media-exp1.licdn.com/dms/document/C511FAQHhWrCAjGYtEw/feedshare-document-pdf-analyzed/0/1566307382716?e=1608181200&v=beta&t=P8s5NRQXw_PEfzXV74t6pTQv8PcYJHzFoUj_RooRxPk" class="btn btn-primary" target="_blank">OPEN</a></p>
+        </card>
+        <card data-image="assets/research/resizing-tinyimagenet.jpg">
+          <h1 slot="header">Resizing Tiny ImageNet - Stanford Challenge</h1>
+          <p slot="content">Iterative approach.</p>
+          <p slot="content"><a href="https://ijircst.org/DOC/resizing-tiny-imagenet-an-iterative-approach-towards-image-classification-8.pdf" class="btn btn-primary" target="_blank">OPEN</a></p>
+        </card>
+      </div>
+
+    </section>-->
